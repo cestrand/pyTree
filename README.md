@@ -63,4 +63,6 @@ Data structure `tree` implemented in Python 3
 			|___ nestedTree
 
 #LICENSING
-Copyright 2012 Yoyo Zhou. Distributed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).  See the `LICENSE` file for details.
+* Copyright 2017 Marcin Kolenda. Distributed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).  See the `LICENSE` file for details.
+
+It's based on Yoyo Zhou's project: https://github.com/cestrand/pyTree
