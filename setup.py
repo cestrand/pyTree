@@ -2,6 +2,8 @@
 Created on Sep 2, 2012
 
 @author: yoyzhou
+
+Edited by Marcin Kolenda at 12th of October 2017.
 '''
 
 from distutils.core import setup
@@ -10,9 +12,9 @@ setup(
       name='pyTree',
       version='1.0.8',
       description='A list-derived TREE data structure in Python ',
-      author='Yoyo Zhou',
-      author_email='iamyoyozhou@gmail.com',
-      url='https://github.com/yoyzhou/pyTree/tree/pretty',
+      author='Marcin Kolenda',
+      author_email='marcinkolenda419@gmail.com',
+      url='https://github.com/cestrand/pyTree',
       packages=['pyTree'],
       package_dir={'pyTree': 'src/pyTree'},
       classifiers=[
